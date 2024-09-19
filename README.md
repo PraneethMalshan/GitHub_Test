@@ -297,3 +297,12 @@ Fast-forward
 
 <!-- ASUS@LAPTOP-KK3ET04D MINGW64 /f/Praneeth/IJSE/My_Full_Sylabus_Cover_At_Home/GIT_Study/malshan (test)
 $ -->
+
+<!-- 
+$ git remote add origin https://github.com/PraneethMalshan/GitHub_Test.git -> meka github eken copy karla aragena daala enter karanna.
+ -->
+
+ <!-- 
+ git push -u origin master -> meka dammata passe github ekata add welaa thiinawa balaa ganna puluwan.
+
+  -->
