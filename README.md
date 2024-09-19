@@ -304,5 +304,12 @@ $ git remote add origin https://github.com/PraneethMalshan/GitHub_Test.git -> me
 
  <!-- 
  git push -u origin master -> meka dammata passe github ekata add welaa thiinawa balaa ganna puluwan.
-
   -->
+
+<!-- ======================================================== -->
+  <!-- GitHub wala thina repositories git ekata kohomada danne & Git wala thina repositories GitHub ekata kohomada ganne wagee deewal & Branch kohomada api git & github athara huwamaru kara ganne ohomada kiyala baliiima.-->
+
+  <!--1. apita git hub ekenuth code eka edit kara ganna puluwan. adaala thanata gihin uda thiinawa edit icon eka. eekan dunnaama code edit karala commit ekak gahala thiyanna puluwan.  -->
+
+  <!--2. Ehema GitHub ekee edit karapu code eka Local git ekata ekathu kara ganne  mehemayi. $ git pull origin
+-->
