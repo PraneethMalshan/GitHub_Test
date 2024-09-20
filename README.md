@@ -312,4 +312,60 @@ $ git remote add origin https://github.com/PraneethMalshan/GitHub_Test.git -> me
   <!--1. apita git hub ekenuth code eka edit kara ganna puluwan. adaala thanata gihin uda thiinawa edit icon eka. eekan dunnaama code edit karala commit ekak gahala thiyanna puluwan.  -->
 
   <!--2. Ehema GitHub ekee edit karapu code eka Local git ekata ekathu kara ganne  mehemayi. $ git pull origin
+
+  <!--3. GitHub ekee thiina Branch ekak Local git ekata ganna widiha.
+    ASUS@LAPTOP-KK3ET04D MINGW64 /f/Praneeth/IJSE/My_Full_Sylabus_Cover_At_Home/GIT_Study/praneeth (master)
+$ git branch -> meeka  gahala thiina branches tika balaa gannawa. thawa math thiinne local ekee hadaapu branches tika.
+* master
+  test
+
+ASUS@LAPTOP-KK3ET04D MINGW64 /f/Praneeth/IJSE/My_Full_Sylabus_Cover_At_Home/GIT_Study/praneeth (master)
+$ git pull -> Git pull ekak gahala GitHub ekee thiina eewa pull kara gannawa local git ekata(GitHub ekee thiinne dn aluthin hadapu branch eka.-> Test_GitHub_Branch)
+From https://github.com/PraneethMalshan/GitHub_Test
+ * [new branch]      Test_GitHub_Branch -> origin/Test_GitHub_Branch
+Already up to date.
+
+ASUS@LAPTOP-KK3ET04D MINGW64 /f/Praneeth/IJSE/My_Full_Sylabus_Cover_At_Home/GIT_Study/praneeth (master)
+$ git status -> GitStatus ekak gahala balanawa monawath thiinawada kiyala.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+ASUS@LAPTOP-KK3ET04D MINGW64 /f/Praneeth/IJSE/My_Full_Sylabus_Cover_At_Home/GIT_Study/praneeth (master)
+$ git branch -> nawathath Git branch gahala baluwata Test_GitHub_Branch eka pennanne naa.. mokada GitHub ekee thiina branch ekak git branch kiyana eka gahuwaama pennanne nathi nisa...(namuth local git ekee thiina eewa penanawa.)
+* master
+  test
+
+ASUS@LAPTOP-KK3ET04D MINGW64 /f/Praneeth/IJSE/My_Full_Sylabus_Cover_At_Home/GIT_Study/praneeth (master)
+$ git branch -a  ->GitHub ekee thiina branches tikayi local eke thiina branches tikayi mee code eka gahuwaama pennanawa..
+* master
+  test
+  remotes/origin/Test_GitHub_Branch
+  remotes/origin/master
+
+ASUS@LAPTOP-KK3ET04D MINGW64 /f/Praneeth/IJSE/My_Full_Sylabus_Cover_At_Home/GIT_Study/praneeth (master)
+$ git checkout Test_GitHub_Branch ->Local git ekee idala GitHub ekee thiina (Test_GitHub_Branch) branch ekata checkout wenna puluwan.
+Switched to a new branch 'Test_GitHub_Branch'
+branch 'Test_GitHub_Branch' set up to track 'origin/Test_GitHub_Branch'.
+
+ASUS@LAPTOP-KK3ET04D MINGW64 /f/Praneeth/IJSE/My_Full_Sylabus_Cover_At_Home/GIT_Study/praneeth (Test_GitHub_Branch)
+$ git pull  ->Test_GitHub_Branch GitHub branch ekee thiina eewa tika local git ekata pull kara gannawa.
+Already up to date.
+
+ASUS@LAPTOP-KK3ET04D MINGW64 /f/Praneeth/IJSE/My_Full_Sylabus_Cover_At_Home/GIT_Study/praneeth (Test_GitHub_Branch)
+$ git branch ->dan git branch gahapuwaama GitHub & local git  dekeema thiina branches tika pennanawa.
+* Test_GitHub_Branch
+  master
+  test
+
+ASUS@LAPTOP-KK3ET04D MINGW64 /f/Praneeth/IJSE/My_Full_Sylabus_Cover_At_Home/GIT_Study/praneeth (Test_GitHub_Branch)
+$
+
+    -->
 -->
+
+<!-- Local Git ekee thiina branch eka GitHub ekata daa ganna widhiya.(Local ekee thiina test branch eka)
+
+
+ -->
